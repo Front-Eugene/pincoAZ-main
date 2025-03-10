@@ -4976,6 +4976,10 @@ pre .tex .formula {
 	.vntyhj-cwrap {
 		padding: 0;
 	}
+
+	.hslider-item img {
+		width: 200px;
+	}
 }
 
 @media (max-width: 420px) {}
